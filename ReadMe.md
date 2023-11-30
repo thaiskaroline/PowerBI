@@ -2,11 +2,11 @@
 
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
-- [Dashboard de Compras](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Vendas)
-- [Dashboard de Produção](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Vendas)
-- [Análise de Vendas](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Vendas)
-- [Análise de Clientes](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Vendas)
-- [TurnOver](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Vendas)
+- [Dashboard de Compras](https://github.com/thaiskaroline/PowerBI/tree/main/Dados/Dashboard%20Compras)
+- [Dashboard de Produção](https://github.com/thaiskaroline/PowerBI/tree/main/Dados/Dashboard%20Produ%C3%A7%C3%A3o)
+- [Análise de Vendas](https://github.com/thaiskaroline/PowerBI/tree/main/Dados/An%C3%A1lise%20Vendas)
+- [Análise de Clientes](https://github.com/thaiskaroline/PowerBI/tree/main/Dados/An%C3%A1lise%20Clientes)
+- [TurnOver](https://github.com/thaiskaroline/PowerBI/tree/main/Dados/TurnOver)
 
 
 ### Dashboard de Compras
