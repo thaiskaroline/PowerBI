@@ -11,7 +11,7 @@ Dashboards elaborados com foco em estudos na ferramenta Power BI, visando constr
 
 ### Dashboard de Compras
 
-![Gif que exemplifica o funcionando do dashboard de Produção](https://imgur.com/q7izBII.gif)
+![Gif que exemplifica o funcionando do dashboard de Produção](https://github.com/thaiskaroline/PowerBI/blob/a876c7d965464c1d098935f6ed323cfb98a330a0/Gif's/Gif_Dashboard_Compras.gif)
 
 Acesse o dashboard completo [neste link](https://app.powerbi.com/links/0UQ7CUiXat?ctid=94f13ec7-9c64-4310-88af-1e82e75dfe00&pbi_source=linkShare)
 
